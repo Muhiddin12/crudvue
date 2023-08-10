@@ -1,9 +1,3 @@
-// const app = Vue.createApp({
-//   template: `<h2> Hello Template </h2>`,
-// });
-// app.mount("#app");
-
-// 2 chi usul
 const app = Vue.createApp({
   data() {
     return {
